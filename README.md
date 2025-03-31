@@ -1,0 +1,2 @@
+# MyManualTestingProject
+QA manual testing
